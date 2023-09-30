@@ -5,6 +5,7 @@ permalink: /second
 ---
 
 {% for pub in site.publications %}
-## {{ pub.title }}
+  ## {{ pub.title }}
 
-{{ pub.content }}
+  {{ pub.content }}
+{% endfor %}
