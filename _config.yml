@@ -2,3 +2,7 @@ theme: minima
 title: Frederik's homepage
 description: Bookmark this to keep an eye on my project updates!
 collections_dir: collections
+collections:
+  publications:
+    title: true
+    type: true
