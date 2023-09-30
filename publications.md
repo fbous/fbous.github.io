@@ -5,9 +5,11 @@ permalink: /publications
 ---
 
 {% for pub in site.publications %}
-  ## {{ pub.title }}
+  <h2>
+    <a href="{{ pub.link }}">
+      {{ pub.title }}
+    </a>
+  </h2>
 
-  {{ pub.content }}
-
-  pub.link
+  <p>{{ pub.content | markdownify }}</p>
 {% endfor %}
