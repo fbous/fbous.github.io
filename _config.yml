@@ -12,3 +12,5 @@ collections:
     title: true
     type: true
     output: true
+plugins:
+  - jekyll-redirect-from
