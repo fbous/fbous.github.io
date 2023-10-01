@@ -11,6 +11,10 @@ _UMR9912 STMS | IRCAM - CNRS - Sorbonne Université - Ministère de la Culture |
 
 This website contains supplementary material to my doctoral thesis.
 
+## Viva voce
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rADj7VUEKt0?si=oqKMSeSfiFqT09OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Chapter 4 -- Glottal closure instant extraction
 
 The chapter has been published at
