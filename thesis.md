@@ -31,7 +31,7 @@ Implementation and weights of the vocoder are available from the
 ## Chapter 6 -- Bottleneck auto-encoder
 
 Audio samples of the pitch transformation can be found on the
-[demo page](http://recherche.ircam.fr/anasyn/bous/thesis/ch6).
+[demo page](/thesis/ch6).
 The original paper is open-access and can be found
 at the [journal website](https://doi.org/10.3390/info13030102).
 
@@ -40,7 +40,7 @@ at the [journal website](https://doi.org/10.3390/info13030102).
 The chapter has been published at
 [ICASSP 2023](https://doi.org/10.1109/ICASSP49357.2023.10095740).
 Audio samples of the voice level transformation can be found on the
-[demo page](http://recherche.ircam.fr/anasyn/bous/thesis/ch7).
+[demo page](/thesis/ch7).
 
 ## Chapter 8 -- Applications
 
