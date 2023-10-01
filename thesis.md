@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: base
 title: Thesis
 permalink: /thesis
 ---
 
 # A neural voice transformation framework for modification of pitch and intensity
+
 ### Doctoral thesis of Frederik Bous
 _UMR9912 STMS | IRCAM - CNRS - Sorbonne Université - Ministère de la Culture | Paris, France_
 
