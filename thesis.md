@@ -54,13 +54,13 @@ at Casino Luxembourg.
 Recordings of the pieces using the neural voice transformation framework
 are online:
 
-### Aïda Shirazi: Né entre corps
+### [Aïda Shirazi: Né entre corps](https://medias.ircam.fr/x842956_ne-entre-corps-aida-shirazi)
 
-!<video src="https://medias.ircam.fr/getmedia/x842956_ne-entre-corps-aida-shirazi/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
+<video src="https://medias.ircam.fr/getmedia/x842956_ne-entre-corps-aida-shirazi/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
 
-### Sachie Kobayashi: Day 0 -- trans-instrumentalism]
+### [Sachie Kobayashi: Day 0 -- trans-instrumentalism](https://medias.ircam.fr/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas)
 
-!<video src="https://medias.ircam.fr/getmedia/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
+<video src="https://medias.ircam.fr/getmedia/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
 
 ## Additional links
 
