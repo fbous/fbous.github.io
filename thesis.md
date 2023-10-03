@@ -56,11 +56,11 @@ are online:
 
 ### Aïda Shirazi: Né entre corps
 
-<video src="https://medias.ircam.fr/getmedia/x842956_ne-entre-corps-aida-shirazi/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
+!<video src="https://medias.ircam.fr/getmedia/x842956_ne-entre-corps-aida-shirazi/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
 
 ### Sachie Kobayashi: Day 0 -- trans-instrumentalism
 
-<video src="https://medias.ircam.fr/getmedia/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
+!<video src="https://medias.ircam.fr/getmedia/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
 
 ## Additional links
 
