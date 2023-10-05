@@ -42,7 +42,9 @@ at the [journal website](https://doi.org/10.3390/info13030102).
 ## Chapter 7 -- Transformation of perceived voice level
 
 The chapter has been published at
-[ICASSP 2023](https://doi.org/10.1109/ICASSP49357.2023.10095740).
+[ICASSP 2023](https://doi.org/10.1109/ICASSP49357.2023.10095740)
+and is available on
+[ArXiv](https://arxiv.org/abs/2204.04006).
 Audio samples of the voice level transformation can be found on the
 [demo page](/thesis/ch7).
 
