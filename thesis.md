@@ -47,6 +47,8 @@ and is available on
 [ArXiv](https://arxiv.org/abs/2204.04006).
 Audio samples of the voice level transformation can be found on the
 [demo page](/thesis/ch7).
+Inference code for voice level estimation can be found
+in the [git repository](https://gitlab.com/bous/voicelevel).
 
 ## Chapter 8 -- Applications
 
