@@ -66,6 +66,10 @@ are online:
 
 !<video src="https://medias.ircam.fr/getmedia/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
 
+### Omer Barash: G.N.Z
+
+_Video not yet available_
+
 ## Additional links
 
 The software [CIRCE](https://forum.ircam.fr/projects/detail/circe/)
