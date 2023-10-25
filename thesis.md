@@ -55,6 +55,9 @@ in the [git repository](https://gitlab.com/bous/voicelevel).
 The Farinelli voice was exhibited during the show
 [an.other voice](https://casino-luxembourg.lu/fr/agenda/another-voice)
 at Casino Luxembourg.
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/808318370?h=5d249afe97" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 Recordings of the pieces using the neural voice transformation framework
 are online:
 
