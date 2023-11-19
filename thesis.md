@@ -13,7 +13,7 @@ This website contains supplementary material to my doctoral thesis.
 
 ## Viva voce
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rADj7VUEKt0?si=oqKMSeSfiFqT09OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="730" height="510" src="https://www.youtube-nocookie.com/embed/rADj7VUEKt0?si=oqKMSeSfiFqT09OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Chapter 4 -- Glottal closure instant extraction
 
@@ -57,15 +57,17 @@ The Farinelli voice was exhibited during the show
 [an.other voice](https://casino-luxembourg.lu/fr/agenda/another-voice)
 at Casino Luxembourg.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/808318370?h=5d249afe97" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/808318370?h=5d249afe97" width="730" height="410" frameborder="0"    allowfullscreen></iframe>
 
 ### Aïda Shirazi: Né entre corps
 
-!<video src="https://medias.ircam.fr/getmedia/x842956_ne-entre-corps-aida-shirazi/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
+<video src="https://medias.ircam.fr/getmedia/x842956_ne-entre-corps-aida-shirazi/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
+</video>
 
 ### Sachie Kobayashi: Day 0 -- trans-instrumentalism
 
-!<video src="https://medias.ircam.fr/getmedia/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
+<video src="https://medias.ircam.fr/getmedia/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
+</video>
 
 ### Omer Barash: G.N.Z
 
