@@ -9,7 +9,7 @@ layout: home
   <tr style="border:none;">
     <td style="border:none;">
       <div style="width:256px;height:256px;">
-        <img src="/assets/bous_square.jpg"/>
+        <img src="/assets/bous_square.jpg" style="border-radius:30%"/>
       </div>
     </td>
     <td style="border:none;">
@@ -23,3 +23,4 @@ layout: home
     </td>
   </tr>
 </table>
+

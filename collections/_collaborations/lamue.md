@@ -13,4 +13,4 @@ short: >
   about scientists recreating the voice of Farinelli.
 ---
 
-[link](https://www.ircam.fr/agenda/fictions-science-alan-turing/detail)
+[more information](https://www.ircam.fr/agenda/fictions-science-alan-turing/detail)

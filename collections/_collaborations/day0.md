@@ -31,3 +31,5 @@ for performer, video, motion sensors and electronics
 You can find more information about the piece
 on the website of [Sachie Kobayashi](https://www.sachiekobayashi.com/works/day0).
 
+([video source](https://medias.ircam.fr/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas))
+

@@ -11,6 +11,13 @@ _UMR9912 STMS | IRCAM - CNRS - Sorbonne Université - Ministère de la Culture |
 
 This website contains supplementary material to my doctoral thesis.
 
+## Manuscript
+
+_I'm currently revising the manuscript's final version,
+which will be made available here, soon.
+If you want to read the preview version,
+please contact me at [contact@fnab.xyz](mailto:contact@fnab.xyz)_
+
 ## Viva voce
 
 <iframe width="730" height="510" src="https://www.youtube-nocookie.com/embed/rADj7VUEKt0?si=oqKMSeSfiFqT09OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -52,26 +59,23 @@ in the [git repository](https://gitlab.com/bous/voicelevel).
 
 ## Chapter 8 -- Applications
 
-### Judith Deschamps: Farinelli voice
-The Farinelli voice was exhibited during the show
-[an.other voice](https://casino-luxembourg.lu/fr/agenda/another-voice)
-at Casino Luxembourg.
+### [Judith Deschamps: Farinelli voice](/collaborations/anothervoice)
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/808318370?h=5d249afe97" width="730" height="410" frameborder="0"    allowfullscreen></iframe>
 
-### Aïda Shirazi: Né entre corps
+The Farinelli voice was exhibited during the show
+[an.other voice](https://casino-luxembourg.lu/fr/agenda/another-voice)
+at Casino Luxembourg and C-LAB in Taiwan.the
 
-<video src="https://medias.ircam.fr/getmedia/x842956_ne-entre-corps-aida-shirazi/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
-</video>
+### Music compositions
 
-### Sachie Kobayashi: Day 0 -- trans-instrumentalism
+Below are a few pieces that were written at IRCAM
+using the voice transformation software [CIRCE](/software/circe/).
+Click on the titles to see a video recording of the pieces' performance.
 
-<video src="https://medias.ircam.fr/getmedia/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas/mp4?resolution=1080" controls="controls" style="max-width: 730px;">
-</video>
-
-### Omer Barash: G.N.Z
-
-_Video not yet available_
+#### [Aïda Shirazi: Né entre corps](/collaborations/neentrecorps)
+#### [Sachie Kobayashi: Day 0 -- trans-instrumentalism](/collaborations/day0)
+#### [Omer Barash: G.N.Z](/collaborations/gnz)
 
 ## Additional links
 

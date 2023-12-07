@@ -11,7 +11,7 @@ image: https://casino-luxembourg.lu/sites/default/files/2023-04/com_web_rsz.jpg
 short: >
   Exhibition by [Judith Deschamps](https://judithdeschamps.com/en)
   with the synthetic voice of Farinelli
-  [improvizing](/software/farinelli) over the piece Quell'usignolo.
+  [improvising](/software/farinelli) over the piece Quell'usignolo.
 ---
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/808318370?h=5d249afe97" width="730" height="410" frameborder="0"    allowfullscreen></iframe>
