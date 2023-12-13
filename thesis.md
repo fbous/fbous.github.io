@@ -20,7 +20,7 @@ please contact me at [contact@fnab.xyz](mailto:contact@fnab.xyz)_
 
 ## Viva voce
 
-<iframe width="730" height="510" src="https://www.youtube-nocookie.com/embed/rADj7VUEKt0?si=oqKMSeSfiFqT09OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="730" height="510" src="https://www.youtube-nocookie.com/embed/rADj7VUEKt0?si=oqKMSeSfiFqT09OQ&amp;start=104" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Chapter 4 -- Glottal closure instant extraction
 
