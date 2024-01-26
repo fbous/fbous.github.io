@@ -13,10 +13,11 @@ This website contains supplementary material to my doctoral thesis.
 
 ## Manuscript
 
-_I'm currently revising the manuscript's final version,
-which will be made available here, soon.
-If you want to read the preview version,
-please contact me at [contact@fnab.xyz](mailto:contact@fnab.xyz)_
+Download the latest version (v1.1) of the manuscript
+directly from [here](/assets/BOUS_PhD_1-1.pdf).
+
+Alternatively you can download the manuscript
+from [HAL](https://theses.hal.science/tel-04353490).
 
 ## Viva voce
 
