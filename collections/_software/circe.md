@@ -24,3 +24,5 @@ and [Aïda Shirazi](/collaborations/neentrecorps).
 
 CIRCE is now available on the [IRCAM forum]({{ page.link }})
 to any registered user (registration is free).
+
+The research and software were developed as part of the ANR project [*ARS* (ANR-19-CE38-0001-03)](http://ars.ircam.fr/).
