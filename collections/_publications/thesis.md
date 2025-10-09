@@ -65,7 +65,7 @@ in the [git repository](https://gitlab.com/bous/voicelevel).
 
 The Farinelli voice was exhibited during the show
 [an.other voice](https://casino-luxembourg.lu/fr/agenda/another-voice)
-at Casino Luxembourg and C-LAB in Taiwan.the
+at Casino Luxembourg and C-LAB in Taiwan.
 
 ### Music compositions
 

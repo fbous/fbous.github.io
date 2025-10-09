@@ -24,7 +24,7 @@ experience:
     date: "2018 - 2024"
     description: |
       - Research on deep learning for voice
-        - 6 peer reviewed publications including 5 as first author and 2 journal articles
+        - 6 peer-reviewed publications including 5 as first author and 2 journal articles
         - Topics: Neural vocoding and representation, self-supervised learning, voice attribute transformation
       - Technical support for film, music and art: Bespoke implementations of voice transformation
       - Application development: Implement research results into voice editing and live transformation app

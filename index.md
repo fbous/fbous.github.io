@@ -3,24 +3,24 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
+greeting: |
+  Welcome to my personal website!
+
+  I'm Frederik Bous, a researcher in sound and AI,
+  currently working on voice technology
+  at the Korean AI start-up [Supertone](supertone.ai).
+  Previously, I have worked at [IRCAM](ircam.fr),
+  a French cultural institution for contemporary music,
+  where I had the pleasure of collaborating
+  with many world class artists
+  on mixing AI technology with art.
+
+  As a amateur artist myself,
+  I'm always interested in exciting new challenges at the intersection
+  between machine learning, signal processing and art,
+  between scientific theory and applications in creative industries.
+
+  Thank you for taking interest in my work!
+
 ---
-
-<table style="border:none;">
-  <tr style="border:none;">
-    <td style="border:none;">
-      <div style="width:256px;height:256px;">
-        <img src="/assets/bous_square.jpg" style="border-radius:30%"/>
-      </div>
-    </td>
-    <td style="border:none;">
-      I'm a researcher in signal processing for voice
-      and consultant for art technology.
-      I'm always interested in exciting new challenges at the intersection
-      between machine learning, signal processing and art,
-      between scientific theory and applications in creative industries.
-
-      Thank you for taking interest in my work!
-    </td>
-  </tr>
-</table>
-
