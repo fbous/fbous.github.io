@@ -21,6 +21,14 @@ greeting: |
   between machine learning, signal processing and art,
   between scientific theory and applications in creative industries.
 
-  Thank you for taking interest in my work!
-
 ---
+
+Thank you for taking interest in my work!
+If you have some questions about my research
+or if you want to use my voice transformations in your art project
+I'm happy to connect and hear about your ideas!
+
+Feel free to browse my website to learn more about my
+- [Research](/research/)
+- [Artistic collaborations](/art/)
+- [Some apps that I wrote](/apps/)
