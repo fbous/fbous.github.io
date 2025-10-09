@@ -1,0 +1,18 @@
+<div class="cv-compact-entry">
+  <div class="cv-compact-content">
+    {% if include.title %}<strong>{{ include.title }}</strong>{% endif %}
+    {% if include.title and include.subtitle %} • {% endif %}
+    {% if include.subtitle %}<em>{{ include.subtitle }}</em>{% endif %}
+    {% if include.details %}
+      {% if include.title or include.subtitle %} ({{ include.details }})
+      {% else %}{{ include.details }}{% endif %}
+    {% endif %}
+    {% if include.location %}
+      {% if include.title or include.subtitle or include.details %} • {% endif %}
+      {{ include.location }}
+    {% endif %}
+  </div>
+  <div class="cv-date">
+    {{ include.date }}
+  </div>
+</div>

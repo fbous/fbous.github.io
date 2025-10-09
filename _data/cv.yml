@@ -1,0 +1,180 @@
+personal:
+  name: Dr. Frederik Bous
+  email: frederik@bous.cc
+  website: https://frederik.bous.cc
+  gitlab: bous
+  linkedin: frederik-bous
+  gscholar: Isec9tEAAAAJ
+
+experience:
+  - title: Research Scientist
+    organization: Supertone Inc.
+    location: Korea
+    date: "2024 - today"
+    description: |
+      - Research related to Supertone's voice technology
+        - Improve quality and controllability on voice backbone model
+        - Analysis and transformation of room acoustics, pitch, subharmonics, breathiness and intensity
+        - Self-supervised- and representation learning related to TTS
+      - Application development: Develop and maintain voice editing tool using Supertone's voice technology
+
+  - title: Post-doc, Doctoral researcher, Intern
+    organization: IRCAM
+    location: France
+    date: "2018 - 2024"
+    description: |
+      - Research on deep learning for voice
+        - 6 peer reviewed publications including 5 as first author and 2 journal articles
+        - Topics: Neural vocoding and representation, self-supervised learning, voice attribute transformation
+      - Technical support for film, music and art: Bespoke implementations of voice transformation
+      - Application development: Implement research results into voice editing and live transformation app
+
+  - title: Intern
+    organization: Siemens AG
+    location: Germany
+    date: "2015"
+
+  - title: Teaching assistant
+    organization: TU Darmstadt, Signal Processing Group
+    location: Germany
+    date: "2014"
+
+education:
+  - title: Doctor of Philosophy (PhD)
+    organization: Sorbonne Université
+    location: France
+    date: "2019 - 2023"
+    field: "Signal processing and machine learning"
+
+  - title: Master of Science (MSc) - Computational Engineering
+    organization: TU Darmstadt
+    location: Germany
+    date: "2015 - 2019"
+
+  - title: Bachelor of Science (BSc) - Electrical Engineering
+    organization: TU Darmstadt
+    location: Germany
+    date: "2012 - 2014"
+
+education_extra:
+  - title: Additional credits - Mathematics & Music
+    organization: TU Darmstadt
+    location: Germany
+    date: "2013 - 2018"
+
+  - title: Study exchange
+    organization: Tongji University
+    location: Shanghai, China
+    date: "2014 - 2015"
+
+  - title: Study exchange
+    organization: AC Davis High School
+    location: Yakima, WA, USA
+    date: "2009 - 2010"
+
+skills:
+  - category: Deep learning
+    items: "Self-supervised learning, generative AI, representation learning, AI for speech and audio"
+  - category: Signal processing
+    items: "Strong DSP background, DSP pre- and post-processing in AI, DDSP"
+  - category: Voice and language
+    items: "Phonetics, source-filter model, physical voice production, voice acoustics"
+  - category: Music
+    items: "Singing, Classical composition techniques, live coding (Tidal Cycles), Piano"
+  - category: Programming languages
+    items: "Python (torch, tensorflow), Haskell, Java, Kotlin, Unix Shell (bash, zsh, fish)"
+  - category: App development
+    items: "Android, GTK, VST"
+  - category: Languages
+    items: "German (native), English (C2), French (B2), Polish (B1), Chinese (A2), Korean (basic)"
+
+collaborations:
+  - artist: Emilien Dubuc
+    work: Brin d'ADN/Odamado
+    type: Film
+    location: IRCAM, Le Fresnoy
+    date: "2023 - today"
+  - artist: Patrick Case
+    work: Science fiction music
+    type: Studio album
+    location: Bristol, UK
+    date: "2023 - today"
+  - artist: Omer Barash
+    work: G.N.Z.
+    type: Composition
+    location: Espace de projection IRCAM
+    date: "2023"
+  - artist: Judith Deschamps
+    work: an·other voice
+    type: Art installation
+    location: Casino Luxembourg, C-LAB Taiwan
+    date: "2022 - 2023"
+  - artist: Aïda Shirazi
+    work: Né entre corps
+    type: Composition
+    location: IRCAM, 35-37
+    date: "2022"
+  - artist: Sachie Kobayashi
+    work: Day 0 – Trans-instrumentalism
+    type: Composition
+    location: IRCAM, Centre Pompidou
+    date: "2022"
+  - artist: Judith Deschamps
+    work: La Mue
+    type: Film
+    location: IRCAM, Centre Pompidou
+    date: "2021 - 2022"
+  - artist: Bläser Philharmonie Aachen
+    work: AI vs. Composer
+    type: Composition
+    location: RWTH Aachen
+    date: "2018"
+
+scholarships:
+  - name: Full PhD scholarship
+    organization: EDITE de Paris (ED130)
+    link: https://www.edite-de-paris.fr/
+    date: "2019 - 2022"
+  - name: Full study scholarship
+    organization: Studienstifung des deutschen Volkes (SdV)
+    link: https://www.studienstiftung.de/en/leitbild/
+    date: "2015 - 2019"
+  - name: Deutschlandstipendium
+    organization: TU Darmstadt, Inro Elektrotechnik, Siemens
+    link: https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html
+    date: "2013 - 2014"
+
+activities:
+  - name: Student representative for HCERES evaluation
+    date: "2023"
+  - name: Founded a live coding ensemble with scientific staff at IRCAM
+    date: "2021 - 2023"
+  - name: SdV Summer Academy on Impact on video streaming on film industry
+    date: "2018"
+  - name: Orchestral composition Das Mädchen aus Hunan
+    date: "2017 - 2018"
+  - name: Improvisation ensemble at Akademie für Tonkunst Darmstadt, Piano and Gyrophon
+    date: "2016 - 2018"
+  - name: Comedian harmonists singing quartet at Staatstheater Darmstadt
+    date: "2016 - 2018"
+  - name: Choir member Chor der TU Darmstadt
+    date: "2012 - 2018"
+  - name: SdV Summer Academy on soundtrack and soundscape
+    date: "2017"
+  - name: Composition at SdV Music Academy
+    date: "2016 - 2017"
+  - name: Choir director Mathechor
+    date: "2013 - 2014"
+  - name: Student representative at electrical engineering department of TU Darmstadt
+    date: "2012 - 2014"
+
+talks:
+  - title: Circe, the IRcam neural auto-encoder for voiCE
+    location: IRCAM Forum at NYU
+    date: "2022"
+  - title: Quell'usignolo che innamorato, the resurgence of an artificial voice
+    location: Mercredis de STMS
+    date: "2022"
+  - title: Workshop on neural vocoding
+    location: Deep Voice Paris
+    date: "2021"

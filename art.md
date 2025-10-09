@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Collaborations
-permalink: /collaborations
+title: Art
+permalink: /art
 ---
 
 # Collaborations with artists

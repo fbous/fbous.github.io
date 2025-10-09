@@ -1,0 +1,14 @@
+<div class="cv-entry">
+  <div class="cv-header">
+    <div class="cv-title">
+      <strong>{{ include.title }}</strong><br>
+      <em>{{ include.organization }}</em>{% if include.location %} • {{ include.location }}{% endif %}
+    </div>
+    <div class="cv-date">{{ include.date }}</div>
+  </div>
+  {% if include.content %}
+  <div class="cv-content">
+    {{ include.content | markdownify }}
+  </div>
+  {% endif %}
+</div>

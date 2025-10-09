@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Software
-permalink: /software
+title: Apps
+permalink: /apps
 ---
 
 # Software
