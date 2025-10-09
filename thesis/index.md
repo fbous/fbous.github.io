@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /thesis
+permalink: /thesis/
 ---
 
 # A neural voice transformation framework for modification of pitch and intensity
@@ -82,4 +82,4 @@ Click on the titles to see a video recording of the pieces' performance.
 The software [CIRCE](https://forum.ircam.fr/projects/detail/circe/)
 is available on the IRCAM forum to any registered user
 (registration is free).
-Find my other publication through my [OrcID 0000-0002-7477-7600](https://orcid.org/0000-0002-7477-7600).
+Find my other publications through my [OrcID 0000-0002-7477-7600](https://orcid.org/0000-0002-7477-7600).
