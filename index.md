@@ -9,8 +9,8 @@ greeting: |
 
   I'm Frederik Bous, a researcher in sound and AI,
   currently working on voice technology
-  at the Korean AI start-up [Supertone](supertone.ai).
-  Previously, I have worked at [IRCAM](ircam.fr),
+  at the Korean AI start-up [Supertone](https://supertone.ai).
+  Previously, I have worked at [IRCAM](https://ircam.fr),
   a French cultural institution for contemporary music,
   where I had the pleasure of collaborating
   with many world class artists
