@@ -16,8 +16,11 @@ I'm looking for exciting new challenges at the intersection between machine lear
 
 AI for voice, music, and sound: 
 - controllable and interpretable generative models
-- self-supervised representation learning
-- multi-modal representation learning
+- self-supervised representation learning and scene understanding
+- neural audio codecs
+- automatic speech recognition
+- multi-modal large language models
+- music information retrieval
 
 Open to new challenges related to artistic media.
 

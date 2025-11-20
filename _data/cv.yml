@@ -73,20 +73,18 @@ education_extra:
     date: "2009 - 2010"
 
 skills:
-  - category: Deep learning
-    items: "Self-supervised learning, generative AI, representation learning, AI for speech and audio"
+  - category: Machine learning
+    items: "Self-supervised learning, generative AI, AI for speech and audio"
   - category: Signal processing
-    items: "Strong DSP background, DSP pre- and post-processing in AI, DDSP"
+    items: "Audio signal processing, speech processing, singal processing for AI"
   - category: Voice and language
     items: "Phonetics, source-filter model, physical voice production, voice acoustics"
-  - category: Music
-    items: "Singing, Classical composition techniques, live coding (Tidal Cycles), Piano"
   - category: Programming languages
-    items: "Python (torch, tensorflow), Haskell, Java, Kotlin, Unix Shell (bash, zsh, fish)"
-  - category: App development
-    items: "Android, GTK, VST"
+    items: "Python (torch, tensorflow), Haskell, Unix Shell (bash, zsh, fish)"
   - category: Languages
     items: "German (native), English (C2), French (B2), Polish (B1), Chinese (A2), Korean (basic)"
+  - category: Music
+    items: "Singing, classical composition techniques, live coding (Tidal Cycles), Piano"
 
 collaborations:
   - artist: Emilien Dubuc
