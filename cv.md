@@ -93,5 +93,5 @@ Open to new challenges related to artistic media.
 
 ## Code
 
-Checkout my [gitlab page](https://gitlab.com/bous) for code examples, though, unfortunately, most of my actual code cannot be made available.
+Checkout my [github page](https://github.com/fbous) for code examples, though, unfortunately, most of my actual code cannot be made available.
 

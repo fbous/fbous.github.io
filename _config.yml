@@ -49,8 +49,7 @@ minima:
       user_name: frederik-bous
     - platform: github
       user_name: fbous
-#github_username: fbous
-gitlab_username: bous
+github_username: fbous
 linkedin_username: frederik-bous
 
 # Exclude from processing.

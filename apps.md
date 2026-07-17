@@ -20,4 +20,4 @@ permalink: /apps
   {% endfor %}
 </div>
 
-Discover more on my [Gitlab](https://gitlab.com/bous) page.
+Discover more on my [GitHub](https://github.com/fbous) page.
