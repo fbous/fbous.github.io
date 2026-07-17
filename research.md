@@ -12,10 +12,10 @@ Find my full publication list on
 
 To learn more, visit the accompanying website to my [doctoral thesis](/thesis/) to learn more about my research conducted at IRCAM. I have worked on
 
-- [Glottal source detection and estimation](https://gitlab.com/bous/asdfg)
+- [Glottal source detection and estimation](https://github.com/fbous/asdfg)
 - [Neural vocoders](https://github.com/roebel/MBExWN_Vocoder)
 - [Developed a framework for disentanglement of voice attributes](https://forum.ircam.fr/projects/detail/circe/)
-- [Estimation of voice level](https://gitlab.com/bous/voicelevel) (vocal effort / intensity / musical dynamics in singing)
+- [Estimation of voice level](https://github.com/fbous/voicelevel) (vocal effort / intensity / musical dynamics in singing)
 
 I'm currently a researcher at [Supertone](https://supertone.ai), where I maintain and develop our voice backbone, NANSY, used for [text-to-speech](https://play.supertone.ai/) and [voice conversion](https://www.supertone.ai/en/shift). My work includes
 

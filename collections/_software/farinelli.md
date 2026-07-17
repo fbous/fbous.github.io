@@ -2,7 +2,7 @@
 layout: element
 name: Farinelli Improviser
 subtitle: "Art installation and film material"
-link: "https://gitlab.com/bous/farinelli-improviser"
+link: "https://github.com/fbous/farinelli-improviser"
 image: /assets/score.jpg
 short: >
   A simple AI that improvises a reinterpretation of Quell'usignolo
@@ -19,4 +19,4 @@ Below a short audio sample from the improvisation.
 
 ## External links:
 
-([Repository](https://gitlab.com/bous/farinelli-improviser))
+([Repository](https://github.com/fbous/farinelli-improviser))

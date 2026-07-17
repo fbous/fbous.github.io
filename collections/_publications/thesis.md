@@ -28,7 +28,7 @@ The chapter has been published at
 [EUSIPCO 2020](https://doi.org/10.23919/Eusipco47968.2020.9287687)
 and the paper is available on [ArXiv](https://arxiv.org/abs/2003.01220).
 Implementation and weights are available from the
-[git repository](https://gitlab.com/bous/asdfg).
+[git repository](https://github.com/fbous/asdfg).
 
 ## Chapter 5 -- Neural vocoder
 
@@ -55,7 +55,7 @@ and is available on
 Audio samples of the voice level transformation can be found on the
 [demo page](/thesis/ch7).
 Inference code for voice level estimation can be found
-in the [git repository](https://gitlab.com/bous/voicelevel).
+in the [git repository](https://github.com/fbous/voicelevel).
 
 ## Chapter 8 -- Applications
 
