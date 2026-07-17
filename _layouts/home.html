@@ -2,17 +2,11 @@
 layout: default
 ---
 
-<table style="border:none;">
-  <tr style="border:none;">
-    <td style="border:none;">
-      <div style="width:256px;height:256px;">
-        <img src="/assets/bous_square.jpg" style="border-radius:30%"/>
-      </div>
-    </td>
-    <td style="border:none;">
-      {{ page.greeting | markdownify }}
-    </td>
-  </tr>
-</table>
+<div class="intro">
+  <img class="intro-photo" src="/assets/bous_square.jpg" alt="Frederik Bous" />
+  <div class="intro-text">
+    {{ page.greeting | markdownify }}
+  </div>
+</div>
 
 {{ page.content | markdownify }}

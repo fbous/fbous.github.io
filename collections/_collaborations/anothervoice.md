@@ -5,7 +5,6 @@ year: 2023
 artist: Judith Deschamps
 location: Casino Luxembourg, C-LAB Taiwan
 type: Art installation
-subtitle: "Art installation"
 link: "https://gitlab.com/bous/farinelli-improviser"
 image: https://casino-luxembourg.lu/sites/default/files/2023-04/com_web_rsz.jpg
 short: >

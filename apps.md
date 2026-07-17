@@ -6,22 +6,18 @@ permalink: /apps
 
 # Software
 
-<table>
+<div class="media-list">
   {% for software in site.software %}
-    <tr>
-      <td> <a href="{{ software.url }}">
-        <div style="width:200px;height:200px">
-          <img
-            src="{{ software.image }}"
-            style="width:100%;height:100%;object-fit:cover;display:block;" >
-        </div>
-      </a> </td>
-      <td>
-        <h2> <a href="{{ software.url }}"> {{ software.name }} </a> </h2>
+    <div class="media-item">
+      <a class="media-thumb media-thumb--lg" href="{{ software.url }}">
+        <img src="{{ software.image }}" alt="{{ software.name }}">
+      </a>
+      <div class="media-body">
+        <h2><a href="{{ software.url }}">{{ software.name }}</a></h2>
         {{ software.short | markdownify }}
-      </td>
-    </tr>
+      </div>
+    </div>
   {% endfor %}
-</table>
+</div>
 
 Discover more on my [Gitlab](https://gitlab.com/bous) page.

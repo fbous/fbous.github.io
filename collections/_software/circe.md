@@ -18,7 +18,7 @@ for the [artistic residency of Judith Deschamps](/collaborations/anothervoice),
 the software has since
 been used in many other projects
 by composers such as
-[Omer Barash](/collaborations/GNZ),
+[Omer Barash](/collaborations/gnz),
 [Sachie Kobayashi](/collaborations/day0)
 and [Aïda Shirazi](/collaborations/neentrecorps).
 

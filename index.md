@@ -16,7 +16,7 @@ greeting: |
   with many world class artists
   on mixing AI technology with art.
 
-  As a amateur artist myself,
+  As an amateur artist myself,
   I'm always interested in exciting new challenges at the intersection
   between machine learning, signal processing and art,
   between scientific theory and applications in creative industries.

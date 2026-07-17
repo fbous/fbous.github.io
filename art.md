@@ -6,27 +6,18 @@ permalink: /art
 
 # Collaborations with artists
 
-<table>
+<div class="media-list">
   {% assign sorted = site.collaborations | sort: "year" %}
   {% for collaboration in sorted reversed %}
-    <tr>
-      <td> <a href="{{ collaboration.url }}">
-        <div style="width:150px;height:150px">
-          <img
-            src="{{ collaboration.image }}"
-            style="width:100%;height:100%;object-fit:cover;display:block;" >
-        </div>
-      </a> </td>
-      <td>
-        <h2> <a href="{{ collaboration.url }}">
-          {{ collaboration.name }}
-          {% if collaboration.year %}
-            ({{ collaboration.year }})
-          {% endif %}
-        </a> </h2>
-        <i> {{ collaboration.type }} </i>
-        {{ collaboration.short | markdownify}}
-      </td>
-    </tr>
+    <div class="media-item">
+      <a class="media-thumb" href="{{ collaboration.url }}">
+        <img src="{{ collaboration.image }}" alt="{{ collaboration.name }}">
+      </a>
+      <div class="media-body">
+        <h2><a href="{{ collaboration.url }}">{{ collaboration.name }}{% if collaboration.year %} ({{ collaboration.year }}){% endif %}</a></h2>
+        <i>{{ collaboration.type }}</i>
+        {{ collaboration.short | markdownify }}
+      </div>
+    </div>
   {% endfor %}
-</table>
+</div>

@@ -5,7 +5,6 @@ year: 2022
 artist: Sachie Kobayashi
 location: IRCAM, Centre Pompidou
 type: Composition
-subtitle: "Composition"
 link: "https://www.sachiekobayashi.com/works/day0"
 image: /assets/day0.jpeg
 short: >

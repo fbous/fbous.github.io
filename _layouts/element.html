@@ -3,8 +3,8 @@ layout: default
 ---
 
 <h1> {{ page.name }} </h1>
-<h2> {{ page.subtitle | markdownify }} </h2>
-
-<i>{{ page.short | markdownify }}</i>
+{%- assign subtitle = page.subtitle | default: page.type -%}
+{%- if subtitle %}<h2>{{ subtitle | markdownify | remove: "<p>" | remove: "</p>" | strip }}</h2>{% endif -%}
+{%- if page.short %}<p><i>{{ page.short | markdownify | remove: "<p>" | remove: "</p>" | strip }}</i></p>{% endif -%}
 
 {{ page.content }}

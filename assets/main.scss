@@ -3,6 +3,89 @@
 
 @import "minima";
 
+// Home intro: photo beside greeting, stacks on narrow screens
+.intro {
+  display: flex;
+  gap: 1.5em;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-bottom: 1em;
+}
+
+.intro-photo {
+  width: 256px;
+  height: 256px;
+  border-radius: 30%;
+  object-fit: cover;
+}
+
+.intro-text {
+  flex: 1;
+  min-width: 250px;
+}
+
+// Media lists (art collaborations, software): thumbnail beside text,
+// stacks on narrow screens. Replaces the old layout tables.
+.media-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+}
+
+.media-item {
+  display: flex;
+  gap: 1em;
+  align-items: flex-start;
+}
+
+.media-thumb {
+  flex: 0 0 150px;
+}
+
+.media-thumb--lg {
+  flex-basis: 200px;
+}
+
+.media-thumb img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  display: block;
+}
+
+.media-thumb--lg img {
+  width: 200px;
+  height: 200px;
+}
+
+.media-body {
+  flex: 1;
+  min-width: 0;
+
+  h2 {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .intro-photo {
+    width: 180px;
+    height: 180px;
+  }
+
+  .media-item {
+    flex-direction: column;
+  }
+
+  .media-thumb img,
+  .media-thumb--lg img {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    aspect-ratio: 1;
+  }
+}
+
 // CV-specific styles
 .cv-entry {
   margin-bottom: 1.5em;

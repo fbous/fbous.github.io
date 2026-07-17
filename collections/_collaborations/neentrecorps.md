@@ -5,7 +5,6 @@ year: 2022
 artist: Aïda Shirazi
 location: IRCAM, 35-37
 type: Composition
-subtitle: "Composition"
 link: ""
 image: /assets/shirazi.jpg
 short: >
