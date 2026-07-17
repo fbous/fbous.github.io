@@ -59,7 +59,7 @@ in the [git repository](https://github.com/fbous/voicelevel).
 
 ## Chapter 8 -- Applications
 
-### [Judith Deschamps: Farinelli voice](/collaborations/anothervoice)
+### [Judith Deschamps: Farinelli voice](/projects/judith)
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/808318370?h=5d249afe97" width="730" height="410" frameborder="0"    allowfullscreen></iframe>
 
@@ -70,12 +70,12 @@ at Casino Luxembourg and C-LAB in Taiwan.
 ### Music compositions
 
 Below are a few pieces that were written at IRCAM
-using the voice transformation software [CIRCE](/software/circe/).
+using the voice transformation software [CIRCE](/projects/circe).
 Click on the titles to see a video recording of the pieces' performance.
 
-#### [Aïda Shirazi: Né entre corps](/collaborations/neentrecorps)
-#### [Sachie Kobayashi: Day 0 -- trans-instrumentalism](/collaborations/day0)
-#### [Omer Barash: G.N.Z](/collaborations/gnz)
+#### [Aïda Shirazi: Né entre corps](/art#neentrecorps)
+#### [Sachie Kobayashi: Day 0 -- trans-instrumentalism](/art#day0)
+#### [Omer Barash: G.N.Z](/art#gnz)
 
 ## Additional links
 

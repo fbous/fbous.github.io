@@ -2,6 +2,7 @@
 layout: element
 name: CIRCE
 subtitle: "**CI**rce, the **IRC**am neural auto-encoder for voi**CE**"
+category: research
 link: https://forum.ircam.fr/projects/detail/circe/
 image: /assets/cauldron.png
 short: >
@@ -14,13 +15,13 @@ short: >
 ![Screenshot](/assets/circe.png)
 
 Originally developed to realize the voice transformations
-for the [artistic residency of Judith Deschamps](/collaborations/anothervoice),
+for the [artistic residency of Judith Deschamps](/projects/judith),
 the software has since
 been used in many other projects
 by composers such as
-[Omer Barash](/collaborations/gnz),
-[Sachie Kobayashi](/collaborations/day0)
-and [Aïda Shirazi](/collaborations/neentrecorps).
+[Omer Barash](/art#gnz),
+[Sachie Kobayashi](/art#day0)
+and [Aïda Shirazi](/art#neentrecorps).
 
 CIRCE is now available on the [IRCAM forum]({{ page.link }})
 to any registered user (registration is free).

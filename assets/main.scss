@@ -62,9 +62,25 @@
   flex: 1;
   min-width: 0;
 
-  h2 {
+  h2, h3 {
     margin-top: 0;
+    margin-bottom: 0.2em;
   }
+}
+
+// Inline "posts" (music collaborations) with embedded media
+.post {
+  margin-bottom: 2.5em;
+
+  iframe, video {
+    max-width: 100%;
+  }
+}
+
+.post-meta {
+  color: #828282;
+  font-size: 0.9em;
+  margin-top: 0.2em;
 }
 
 @media (max-width: 600px) {

@@ -31,16 +31,17 @@ collections:
     title: true
     type: true
     output: true
-  software:
+  projects:
     title: true
     type: true
     output: true
-    permalink: /:collection/:name
+    permalink: /projects/:name
   collaborations:
     title: true
     type: true
-    output: true
-    permalink: /:collection/:name
+    output: false
+  research:
+    output: false
 plugins:
   - jekyll-redirect-from
 minima:

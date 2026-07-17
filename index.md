@@ -30,5 +30,4 @@ I'm happy to connect and hear about your ideas!
 
 Feel free to browse my website to learn more about my
 - [Research](/research)
-- [Artistic collaborations](/art)
-- [Some apps that I wrote](/apps)
+- [Art & creative-technology projects](/art)

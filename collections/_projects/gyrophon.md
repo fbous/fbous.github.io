@@ -2,6 +2,8 @@
 layout: element
 name: Gyrophon
 subtitle: "DIY electronic instrument"
+type: Electronic instrument
+category: creative-tech
 image: /assets/smartphone.png
 short: >
   Electronic instrument which uses the smartphone's

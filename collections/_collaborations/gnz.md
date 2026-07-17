@@ -5,6 +5,7 @@ year: 2023
 artist: Omer Barash
 location: Espace de projection IRCAM
 type: Composition
+category: music
 link: ""
 image: /assets/gnz.png
 short: >
