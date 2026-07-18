@@ -14,7 +14,7 @@ festival: DocLisboa 2024
 award: Best Short Film — Green Years Competition
 role: AI reconstruction of Farinelli's voice
 software: CIRCE
-software_url: /projects/circe
+software_url: /projects/voice-editing#circe
 poster: /assets/la-mue-poster.jpg
 trailer_id: LqK4jvkJQcM
 description: >

@@ -70,7 +70,7 @@ at Casino Luxembourg and C-LAB in Taiwan.
 ### Music compositions
 
 Below are a few pieces that were written at IRCAM
-using the voice transformation software [CIRCE](/projects/circe).
+using the voice transformation software [CIRCE](/projects/voice-editing#circe).
 Click on the titles to see a video recording of the pieces' performance.
 
 #### [Aïda Shirazi: Né entre corps](/music/#neentrecorps)

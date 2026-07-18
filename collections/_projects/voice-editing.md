@@ -6,12 +6,23 @@ order: 0
 link: https://forum.ircam.fr/projects/detail/circe/
 image: /assets/cauldron.png
 short: >
-  Software for editing and transforming the voice — from CIRCE, the neural
-  auto-encoder built during my PhD at IRCAM, to the voice-editing tools I now
-  develop at Supertone.
+  Software for editing and transforming the voice: the neural tools I develop at
+  Supertone, and CIRCE, the auto-encoder I built during my PhD at IRCAM.
 ---
 
-## CIRCE — IRCAM
+## At Supertone
+
+At [Supertone](https://supertone.ai) I build neural voice-editing tools on top
+of our NANSY voice backbone. Presented at
+[ISMIR 2025](https://ismir2025program.ismir.net/lbd_439.html), the latest tool
+edits pitch, subharmonics and structural noise (jitter and shimmer): it
+decomposes a voice into pitch, linguistic and speaker representations, and you
+reshape it by redrawing the control-parameter curves in a web UI, on a computer
+or tablet.
+
+<iframe class="work-trailer" src="https://drive.google.com/file/d/1NSiNdg2WGWrEliYMVqV5-eXYh0lBIpyR/preview" title="ISMIR 2025 demo — neural voice editing tool" allow="autoplay" allowfullscreen></iframe>
+
+## CIRCE — IRCAM {#circe}
 
 ![CIRCE screenshot](/assets/circe.png)
 
@@ -31,15 +42,3 @@ CIRCE is available on the [IRCAM forum](https://forum.ircam.fr/projects/detail/c
 to any registered user (registration is free). The research and software were
 developed as part of the ANR project
 [*ARS* (ANR-19-CE38-0001-03)](http://ars.ircam.fr/).
-
-## At Supertone
-
-At [Supertone](https://supertone.ai) I build neural voice-editing tools on top
-of our NANSY voice backbone. Presented at
-[ISMIR 2025](https://ismir2025program.ismir.net/lbd_439.html), the latest tool
-edits pitch, subharmonics and structural noise (jitter and shimmer): it
-decomposes a voice into pitch, linguistic and speaker representations, and you
-reshape it by redrawing the control-parameter curves in a web UI, on a computer
-or tablet.
-
-<iframe class="work-trailer" src="https://drive.google.com/file/d/1NSiNdg2WGWrEliYMVqV5-eXYh0lBIpyR/preview" title="ISMIR 2025 demo — neural voice editing tool" allow="autoplay" allowfullscreen></iframe>
