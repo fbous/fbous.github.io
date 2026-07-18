@@ -121,6 +121,27 @@ figcaption {
   margin-top: 0.4em;
 }
 
+// Gyrophon phone photo floated into the text
+.gyro-photo {
+  float: right;
+  width: 300px;
+  max-width: 45%;
+  margin: 0.25em 0 1em 1.5em;
+}
+
+.gyro-mixer {
+  clear: both;
+}
+
+@media (max-width: 600px) {
+  .gyro-photo {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    margin: 1.5em 0;
+  }
+}
+
 .work-trailer {
   display: block;
   width: 100%;
