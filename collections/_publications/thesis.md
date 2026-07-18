@@ -42,7 +42,7 @@ Implementation and weights of the vocoder are available from the
 ## Chapter 6 -- Bottleneck auto-encoder
 
 Audio samples of the pitch transformation can be found on the
-[demo page](/thesis/ch6).
+[demo page](/thesis/ch6/demo).
 The original paper is open-access and can be found
 at the [journal website](https://doi.org/10.3390/info13030102).
 
@@ -53,7 +53,7 @@ The chapter has been published at
 and is available on
 [ArXiv](https://arxiv.org/abs/2204.04006).
 Audio samples of the voice level transformation can be found on the
-[demo page](/thesis/ch7).
+[demo page](/thesis/ch7/demo).
 Inference code for voice level estimation can be found
 in the [git repository](https://github.com/fbous/voicelevel).
 
