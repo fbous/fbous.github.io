@@ -20,7 +20,7 @@ the [Films](/films/) I contributed to.
       sonic structures and AI audio for multi-disciplinary projects.</p>
     </div>
   </div>
-{% assign projects = site.projects | where: "category", "creative-tech" | sort: "order" %}
+{% assign projects = site.projects | sort: "order" %}
 {% for p in projects %}
   <div class="media-item">
     {% if p.image %}<a class="media-thumb" href="{{ p.url }}"><img src="{{ p.image }}" alt="{{ p.name }}"></a>{% endif %}

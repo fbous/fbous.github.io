@@ -3,7 +3,6 @@ layout: element
 name: The voice of Farinelli
 subtitle: "A series of works with Judith Deschamps"
 type: Art installation & software
-category: creative-tech
 order: 1
 image: /assets/score.jpg
 short: >
