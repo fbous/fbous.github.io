@@ -83,6 +83,74 @@
   margin-top: 0.2em;
 }
 
+.post-year {
+  color: #828282;
+  font-weight: normal;
+}
+
+// Music / film work pages and feeds
+.work-video {
+  width: 100%;
+  max-width: 730px;
+  margin-bottom: 1em;
+}
+
+.work-lead {
+  margin-bottom: 1em;
+}
+
+.film-poster {
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  border-radius: 4px;
+}
+
+.film-poster--large {
+  max-width: 480px;
+  margin-bottom: 1em;
+}
+
+// Film feed: poster left, wider than the square media thumbs
+.media-thumb--film {
+  flex-basis: 240px;
+
+  img {
+    width: 240px;
+    height: auto;
+    object-fit: initial;
+  }
+}
+
+// Metadata definition list on work pages
+.work-meta {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.25em 1em;
+  margin: 1em 0;
+
+  dt {
+    font-weight: bold;
+    color: #555;
+  }
+
+  dd {
+    margin: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .media-thumb--film {
+    flex-basis: auto;
+
+    img {
+      width: 100%;
+      max-width: 320px;
+    }
+  }
+}
+
 @media (max-width: 600px) {
   .intro-photo {
     width: 180px;

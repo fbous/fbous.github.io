@@ -19,9 +19,9 @@ for the [artistic residency of Judith Deschamps](/projects/judith),
 the software has since
 been used in many other projects
 by composers such as
-[Omer Barash](/art#gnz),
-[Sachie Kobayashi](/art#day0)
-and [Aïda Shirazi](/art#neentrecorps).
+[Omer Barash](/music/#gnz),
+[Sachie Kobayashi](/music/#day0)
+and [Aïda Shirazi](/music/#neentrecorps).
 
 CIRCE is now available on the [IRCAM forum]({{ page.link }})
 to any registered user (registration is free).

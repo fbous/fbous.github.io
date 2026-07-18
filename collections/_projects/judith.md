@@ -44,4 +44,4 @@ chain to move unpredictably across eleven keys.
 ## La Mue — film (2022)
 
 A video documentary by Judith Deschamps about scientists recreating Farinelli's
-voice. See it under [Film](/art#film).
+voice. See it under [Films](/films/).

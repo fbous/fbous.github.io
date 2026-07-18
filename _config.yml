@@ -36,12 +36,33 @@ collections:
     type: true
     output: true
     permalink: /projects/:name
-  collaborations:
-    title: true
-    type: true
-    output: false
   research:
     output: false
+  music:
+    output: true
+    permalink: /music/:name/
+  films:
+    output: true
+    permalink: /films/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: music
+    values:
+      layout: work
+  - scope:
+      path: ""
+      type: films
+    values:
+      layout: work
+
+header_pages:
+  - research.md
+  - art.md
+  - music.md
+  - films.md
+  - cv.md
 plugins:
   - jekyll-redirect-from
 minima:

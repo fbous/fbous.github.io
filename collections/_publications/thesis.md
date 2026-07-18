@@ -73,9 +73,9 @@ Below are a few pieces that were written at IRCAM
 using the voice transformation software [CIRCE](/projects/circe).
 Click on the titles to see a video recording of the pieces' performance.
 
-#### [Aïda Shirazi: Né entre corps](/art#neentrecorps)
-#### [Sachie Kobayashi: Day 0 -- trans-instrumentalism](/art#day0)
-#### [Omer Barash: G.N.Z](/art#gnz)
+#### [Aïda Shirazi: Né entre corps](/music/#neentrecorps)
+#### [Sachie Kobayashi: Day 0 -- trans-instrumentalism](/music/#day0)
+#### [Omer Barash: G.N.Z](/music/#gnz)
 
 ## Additional links
 
