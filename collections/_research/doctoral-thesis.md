@@ -1,6 +1,6 @@
 ---
 name: Doctoral thesis
-order: 3
+order: 4
 image: /assets/ear.png
 short: >
   My PhD at IRCAM — *A neural voice transformation framework for modification of

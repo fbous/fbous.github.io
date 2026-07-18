@@ -1,6 +1,6 @@
 ---
 name: Auto-regressive spectral envelope prediction
-order: 8
+order: 9
 # TODO: add a thumbnail
 short: >
   My first paper: deep-learning methods for the auto-regressive prediction of

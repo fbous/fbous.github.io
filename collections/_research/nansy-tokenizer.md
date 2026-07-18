@@ -1,6 +1,6 @@
 ---
 name: NANSY tokenizer for autoregressive TTS
-order: 2
+order: 3
 # TODO: add a thumbnail
 short: >
   A discrete tokenizer built on our NANSY voice backbone: it turns continuous

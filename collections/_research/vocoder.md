@@ -1,7 +1,7 @@
 ---
 name: Neural vocoder (MBExWN)
-order: 6
-# TODO: add a thumbnail
+order: 7
+image: /assets/thumb-mel-spectrogram.png
 short: >
   High-quality neural vocoding for singing and speaking voice with the
   MultiBand Excited WaveNet (MBExWN).

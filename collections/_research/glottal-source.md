@@ -1,6 +1,6 @@
 ---
 name: Glottal source estimation
-order: 7
+order: 8
 # TODO: add a thumbnail
 short: >
   Detection and semi-supervised estimation of glottal closure instants and
