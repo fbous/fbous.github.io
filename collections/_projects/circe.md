@@ -37,4 +37,6 @@ decomposes a voice into pitch, linguistic and speaker representations, and you
 reshape it by redrawing the control-parameter curves in a web UI, on a computer
 or tablet.
 
+<iframe class="work-trailer" src="https://drive.google.com/file/d/1NSiNdg2WGWrEliYMVqV5-eXYh0lBIpyR/preview" title="ISMIR 2025 demo — neural voice editing tool" allow="autoplay" allowfullscreen></iframe>
+
 The same editing also ships as a VST plugin, bringing it directly into a DAW.
