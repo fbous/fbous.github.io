@@ -1,32 +1,39 @@
 {% assign w = include.item %}
+{%- capture work_meta -%}
+<dl class="work-meta">
+  {% if w.type %}<dt>Type</dt><dd>{{ w.type }}</dd>{% endif %}
+  {% if w.english_title %}<dt>English title</dt><dd>{{ w.english_title }}</dd>{% endif %}
+  {% if w.composer %}<dt>Composer</dt><dd>{% if w.composer_url %}<a href="{{ w.composer_url }}">{{ w.composer }}</a>{% else %}{{ w.composer }}{% endif %}</dd>{% endif %}
+  {% if w.director %}<dt>Director</dt><dd>{% if w.director_url %}<a href="{{ w.director_url }}">{{ w.director }}</a>{% else %}{{ w.director }}{% endif %}</dd>{% endif %}
+  {% if w.performer %}<dt>Performer</dt><dd>{{ w.performer }}</dd>{% endif %}
+  {% if w.instrumentation %}<dt>For</dt><dd>{{ w.instrumentation }}</dd>{% endif %}
+  {% if w.duration %}<dt>Duration</dt><dd>{{ w.duration }}</dd>{% endif %}
+  {% if w.production %}<dt>Production</dt><dd>{{ w.production }}</dd>{% endif %}
+  {% if w.venue %}<dt>Venue</dt><dd>{{ w.venue }}</dd>{% endif %}
+  {% if w.festival %}<dt>Festival</dt><dd>{{ w.festival }}</dd>{% endif %}
+  {% if w.award %}<dt>Award</dt><dd>{{ w.award }}</dd>{% endif %}
+  {% if w.premiere %}<dt>Premiere</dt><dd>{{ w.premiere }}</dd>{% endif %}
+  {% if w.role %}<dt>My contribution</dt><dd>{{ w.role }}</dd>{% endif %}
+  {% if w.software %}<dt>Software</dt><dd>{% if w.software_url %}<a href="{{ w.software_url }}">{{ w.software }}</a>{% else %}{{ w.software }}{% endif %}</dd>{% endif %}
+</dl>
+{%- endcapture -%}
 <div class="work" id="{{ w.slug }}">
   <h2>{{ w.title }}{% if w.year %} <span class="post-year">({{ w.year }})</span>{% endif %}</h2>
   {% if w.subtitle %}<p class="work-subtitle"><em>{{ w.subtitle }}</em></p>{% endif %}
 
-  {% if w.poster %}<img class="film-poster" src="{{ w.poster }}" alt="{{ w.title }} poster">{% endif %}
-  {% if w.video %}<video class="work-video" src="{{ w.video }}"{% if w.preview %} poster="{{ w.preview }}"{% endif %} controls="controls" preload="none"></video>{% endif %}
-  {% if w.trailer_id %}<iframe class="work-trailer" src="https://www.youtube-nocookie.com/embed/{{ w.trailer_id }}" title="{{ w.title }} — trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{% endif %}
-
+  {% if w.collection == "films" %}
+  <div class="film-head">
+    {% if w.poster %}<img class="film-poster" src="{{ w.poster }}" alt="{{ w.title }} poster">{% endif %}
+    {{ work_meta }}
+  </div>
   {% if w.description %}<div class="work-lead">{{ w.description | markdownify }}</div>{% endif %}
-
-  <dl class="work-meta">
-    {% if w.type %}<dt>Type</dt><dd>{{ w.type }}</dd>{% endif %}
-    {% if w.english_title %}<dt>English title</dt><dd>{{ w.english_title }}</dd>{% endif %}
-    {% if w.composer %}<dt>Composer</dt><dd>{% if w.composer_url %}<a href="{{ w.composer_url }}">{{ w.composer }}</a>{% else %}{{ w.composer }}{% endif %}</dd>{% endif %}
-    {% if w.director %}<dt>Director</dt><dd>{% if w.director_url %}<a href="{{ w.director_url }}">{{ w.director }}</a>{% else %}{{ w.director }}{% endif %}</dd>{% endif %}
-    {% if w.performer %}<dt>Performer</dt><dd>{{ w.performer }}</dd>{% endif %}
-    {% if w.instrumentation %}<dt>For</dt><dd>{{ w.instrumentation }}</dd>{% endif %}
-    {% if w.duration %}<dt>Duration</dt><dd>{{ w.duration }}</dd>{% endif %}
-    {% if w.production %}<dt>Production</dt><dd>{{ w.production }}</dd>{% endif %}
-    {% if w.venue %}<dt>Venue</dt><dd>{{ w.venue }}</dd>{% endif %}
-    {% if w.festival %}<dt>Festival</dt><dd>{{ w.festival }}</dd>{% endif %}
-    {% if w.award %}<dt>Award</dt><dd>{{ w.award }}</dd>{% endif %}
-    {% if w.premiere %}<dt>Premiere</dt><dd>{{ w.premiere }}</dd>{% endif %}
-    {% if w.role %}<dt>My contribution</dt><dd>{{ w.role }}</dd>{% endif %}
-    {% if w.software %}<dt>Software</dt><dd>{% if w.software_url %}<a href="{{ w.software_url }}">{{ w.software }}</a>{% else %}{{ w.software }}{% endif %}</dd>{% endif %}
-  </dl>
-
   {{ w.content | markdownify }}
-
+  {% if w.trailer_id %}<iframe class="work-trailer" src="https://www.youtube-nocookie.com/embed/{{ w.trailer_id }}" title="{{ w.title }} — trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{% endif %}
+  {% else %}
+  {% if w.video %}<video class="work-video" src="{{ w.video }}"{% if w.preview %} poster="{{ w.preview }}"{% endif %} controls="controls" preload="none"></video>{% endif %}
+  {% if w.description %}<div class="work-lead">{{ w.description | markdownify }}</div>{% endif %}
+  {{ work_meta }}
+  {{ w.content | markdownify }}
   {% if w.source %}<p class="post-meta"><a href="{{ w.source }}">Video source</a></p>{% endif %}
+  {% endif %}
 </div>

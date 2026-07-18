@@ -131,6 +131,27 @@
   margin-bottom: 1em;
 }
 
+// Film feed item: poster on the left, metadata filling the width beside it
+.film-head {
+  display: flex;
+  gap: 1.5em;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-bottom: 1em;
+
+  .film-poster {
+    flex: 0 0 240px;
+    width: 240px;
+    max-width: 100%;
+  }
+
+  .work-meta {
+    flex: 1;
+    min-width: 240px;
+    margin: 0;
+  }
+}
+
 // Film feed: poster left, wider than the square media thumbs
 .media-thumb--film {
   flex-basis: 240px;
