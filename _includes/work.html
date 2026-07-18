@@ -5,10 +5,7 @@
   {% if w.english_title %}<dt>English title</dt><dd>{{ w.english_title }}</dd>{% endif %}
   {% if w.composer %}<dt>Composer</dt><dd>{% if w.composer_url %}<a href="{{ w.composer_url }}">{{ w.composer }}</a>{% else %}{{ w.composer }}{% endif %}</dd>{% endif %}
   {% if w.director %}<dt>Director</dt><dd>{% if w.director_url %}<a href="{{ w.director_url }}">{{ w.director }}</a>{% else %}{{ w.director }}{% endif %}</dd>{% endif %}
-  {% if w.ensemble %}<dt>Ensemble</dt><dd>{{ w.ensemble }}</dd>{% endif %}
   {% if w.performer %}<dt>Performer</dt><dd>{{ w.performer }}</dd>{% endif %}
-  {% if w.conductor %}<dt>Conductor</dt><dd>{{ w.conductor }}</dd>{% endif %}
-  {% if w.orchestra_preparation %}<dt>Orchestra preparation</dt><dd>{{ w.orchestra_preparation }}</dd>{% endif %}
   {% if w.instrumentation %}<dt>For</dt><dd>{{ w.instrumentation }}</dd>{% endif %}
   {% if w.duration %}<dt>Duration</dt><dd>{{ w.duration }}</dd>{% endif %}
   {% if w.production %}<dt>Production</dt><dd>{{ w.production }}</dd>{% endif %}
@@ -17,7 +14,6 @@
   {% if w.award %}<dt>Award</dt><dd>{{ w.award }}</dd>{% endif %}
   {% if w.premiere %}<dt>Premiere</dt><dd>{{ w.premiere }}</dd>{% endif %}
   {% if w.role %}<dt>My contribution</dt><dd>{{ w.role }}</dd>{% endif %}
-  {% if w.recording %}<dt>Recording</dt><dd>{{ w.recording }}</dd>{% endif %}
   {% if w.software %}<dt>Software</dt><dd>{% if w.software_url %}<a href="{{ w.software_url }}">{{ w.software }}</a>{% else %}{{ w.software }}{% endif %}</dd>{% endif %}
 </dl>
 {%- endcapture -%}

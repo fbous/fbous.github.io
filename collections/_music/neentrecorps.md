@@ -5,7 +5,6 @@ year: 2022
 date: 2022-06-01
 composer: Aïda Shirazi
 composer_url: https://aidashirazi.com/
-type: Composition
 venue: IRCAM, Espace 35-37
 software: CIRCE
 software_url: /projects/circe

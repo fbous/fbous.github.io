@@ -5,7 +5,6 @@ year: 2023
 date: 2023-01-01
 composer: Omer Barash
 composer_url: https://omerbarash.com/
-type: Composition
 venue: Espace de projection, IRCAM
 software: CIRCE
 software_url: /projects/circe

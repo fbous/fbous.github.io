@@ -5,7 +5,6 @@ year: 2022
 date: 2022-09-24
 composer: Sachie Kobayashi
 composer_url: https://www.sachiekobayashi.com/
-type: Composition
 instrumentation: performer, video, motion sensors and electronics
 venue: Grande Salle, Centre Pompidou
 premiere: 24 September 2022
