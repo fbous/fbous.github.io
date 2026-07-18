@@ -23,6 +23,7 @@ the [Films](/films/) I contributed to.
   </div>
 {% endfor %}
   <div class="media-item">
+    <a class="media-thumb" href="https://www.studiocucurbits.com/"><img src="/assets/studio-cucurbits-thumb.png" alt="Studio Cucurbits"></a>
     <div class="media-body">
       <h3><a href="https://www.studiocucurbits.com/">Studio Cucurbits &#8599;</a></h3>
       <p class="post-meta"><em>Creative-technology studio</em></p>
