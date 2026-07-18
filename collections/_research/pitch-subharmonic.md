@@ -1,7 +1,7 @@
 ---
 name: Self-supervised pitch & subharmonic detection
 order: 1
-# TODO: add a thumbnail
+image: /assets/thumb-viterbi.png
 short: >
   Self-supervised estimation of pitch — robust to sub-harmonics — together with
   detection of subharmonics and structural noise, an interactive tool for
