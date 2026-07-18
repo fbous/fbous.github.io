@@ -1,7 +1,7 @@
 ---
-name: Glottal source modelling
-order: 5
-image: /assets/ear.png
+name: Glottal source estimation
+order: 7
+# TODO: add a thumbnail
 short: >
   Detection and semi-supervised estimation of glottal closure instants and
   glottal pulse positions in neural analysis–synthesis of the voice.

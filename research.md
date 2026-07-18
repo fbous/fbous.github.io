@@ -13,9 +13,6 @@ at [IRCAM](https://ircam.fr), where I completed my doctoral thesis on neural
 voice transformation. My work centres on controllable and interpretable
 generative models for voice, music and sound.
 
-> **Doctoral thesis** — manuscript, viva and audio demos:
-> [A neural voice transformation framework for modification of pitch and intensity](/thesis/)
-
 ## Research topics
 
 <div class="media-list">
