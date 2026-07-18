@@ -6,6 +6,7 @@ date: 2022-06-01
 composer: Aïda Shirazi
 composer_url: https://aidashirazi.com/
 venue: IRCAM, Espace 35-37
+venue_url: https://3537.org/35-37-rue-des-Francs-Bourgeois
 software: CIRCE
 software_url: /projects/circe
 video: https://medias.ircam.fr/getmedia/x842956_ne-entre-corps-aida-shirazi/mp4?resolution=1080

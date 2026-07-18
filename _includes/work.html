@@ -9,7 +9,7 @@
   {% if w.instrumentation %}<dt>For</dt><dd>{{ w.instrumentation }}</dd>{% endif %}
   {% if w.duration %}<dt>Duration</dt><dd>{{ w.duration }}</dd>{% endif %}
   {% if w.production %}<dt>Production</dt><dd>{{ w.production }}</dd>{% endif %}
-  {% if w.venue %}<dt>Venue</dt><dd>{{ w.venue }}</dd>{% endif %}
+  {% if w.venue %}<dt>Venue</dt><dd>{% if w.venue_url %}<a href="{{ w.venue_url }}">{{ w.venue }}</a>{% else %}{{ w.venue }}{% endif %}</dd>{% endif %}
   {% if w.festival %}<dt>Festival</dt><dd>{{ w.festival }}</dd>{% endif %}
   {% if w.award %}<dt>Award</dt><dd>{{ w.award }}</dd>{% endif %}
   {% if w.premiere %}<dt>Premiere</dt><dd>{{ w.premiere }}</dd>{% endif %}

@@ -6,6 +6,7 @@ date: 2023-01-01
 composer: Omer Barash
 composer_url: https://omerbarash.com/
 venue: Espace de projection, IRCAM
+venue_url: https://www.ircam.fr/fr/ircam/les-espaces/espace-de-projection
 software: CIRCE
 software_url: /projects/circe
 video: https://medias.ircam.fr/getmedia/x714fdd_gnz-omer-barash/mp4?resolution=1080

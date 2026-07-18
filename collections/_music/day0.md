@@ -7,6 +7,7 @@ composer: Sachie Kobayashi
 composer_url: https://www.sachiekobayashi.com/
 instrumentation: performer, video, motion sensors and electronics
 venue: Grande Salle, Centre Pompidou
+venue_url: https://www.centrepompidou.fr/en/centre-pompidou/who-are-we
 premiere: 24 September 2022
 performer: Corentin Marillier
 software: CIRCE
