@@ -36,8 +36,6 @@ A simple AI that improvises a reinterpretation of *Quell'usignolo* by
 rearranging small sections according to predefined transitions, using a Markov
 chain to move unpredictably across eleven keys.
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1684803579&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
 - Interactive installation: <https://farinelli.judithdeschamps.com/>
 - Source code: [github.com/fbous/farinelli-improviser](https://github.com/fbous/farinelli-improviser)
 
