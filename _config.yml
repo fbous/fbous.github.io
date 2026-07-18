@@ -39,27 +39,13 @@ collections:
   research:
     output: false
   music:
-    output: true
-    permalink: /music/:name/
+    output: false
   films:
-    output: true
-    permalink: /films/:name/
-
-defaults:
-  - scope:
-      path: ""
-      type: music
-    values:
-      layout: work
-  - scope:
-      path: ""
-      type: films
-    values:
-      layout: work
+    output: false
 
 header_pages:
   - research.md
-  - art.md
+  - projects.md
   - music.md
   - films.md
   - cv.md

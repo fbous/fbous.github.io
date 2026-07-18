@@ -13,6 +13,7 @@ performer: Corentin Marillier
 software: CIRCE
 software_url: /projects/circe
 video: https://medias.ircam.fr/getmedia/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas/mp4?resolution=1080
+preview: /assets/day0.jpeg
 source: https://medias.ircam.fr/x56d2a9_day-0-trans-instrumentalism-sachie-kobayas
 link: https://www.sachiekobayashi.com/works/day0
 description: >

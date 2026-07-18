@@ -1,17 +1,14 @@
 ---
 layout: default
-title: Art
-permalink: /art
+title: Projects
+permalink: /projects/
 ---
 
-# Art
+# Projects
 
-I like working at the intersection of machine learning, signal processing and
-art. See the [Music](/music/) pieces made with my voice-transformation tools and
-the [Films](/films/) I contributed to. The projects below are longer
-creative-technology works where I built the technology behind the piece.
-
-## Creative technology
+Longer creative-technology works where I built the technology behind the piece.
+See also the [Music](/music/) pieces made with my voice-transformation tools and
+the [Films](/films/) I contributed to.
 
 <div class="media-list">
 {% assign projects = site.projects | where: "category", "creative-tech" %}

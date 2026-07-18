@@ -104,6 +104,16 @@
   margin-bottom: 1em;
 }
 
+// Inline work blocks in the music / film feeds
+.work {
+  margin-bottom: 2.5em;
+}
+
+.work + .work {
+  border-top: 1px solid #e8e8e8;
+  padding-top: 1.5em;
+}
+
 .work-lead {
   margin-bottom: 1em;
 }
