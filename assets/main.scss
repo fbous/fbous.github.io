@@ -92,6 +92,9 @@
 .work-video {
   width: 100%;
   max-width: 730px;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: #000;
   margin-bottom: 1em;
 }
 
