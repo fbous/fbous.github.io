@@ -14,7 +14,7 @@ link: https://github.com/fbous/gyrophon-desktop
 
 <figure class="gyro-photo">
   <img src="/assets/gyrophon.jpeg" alt="The Gyrophon app running on a Samsung phone, showing the touch grid">
-  <figcaption>The phone is the playing surface: a grid you slide across, tilting to change pitch.</figcaption>
+  <figcaption>The app displays the sensordata as a small dot on a piano matrix.</figcaption>
 </figure>
 
 The Gyrophon is an electronic instrument I invented during my time in college. The idea came out of my internship at Siemens where we used the sensor data from android phones. Then I had the idea to use this sensor data to control synthesizers.
@@ -25,7 +25,7 @@ I've experimented a lot with it during my improvisation classes at Akademie für
 
 <figure class="gyro-mixer">
   <img src="/assets/gyrophon-mixer.png" alt="The Gyrophon desktop mixer with three voices and an effects rack">
-  <figcaption>The desktop synthesiser — three voices (cygnius, aquila, lyra) and a shared effects rack.</figcaption>
+  <figcaption>The desktop synthesiser with three connected devices (cygnius, aquila, lyra) and a shared effects rack.</figcaption>
 </figure>
 
 Listen to an excerpt from my gyrophon sonata.
