@@ -12,20 +12,27 @@ short: >
 link: https://github.com/fbous/gyrophon-desktop
 ---
 
-Gyrophon turns an ordinary Android phone into an expressive musical instrument.
-There are no keys or strings — you play it with gesture: slide a finger across
-the screen to choose the pitch and tilt the phone to shape the intensity, so
-every note bends and swells with the way you move.
+The Gyrophon is an electronic instrument I invented during my time in college. The idea came out of my internship at Siemens where we used the sensor data from android phones. Then I had the idea to use this sensor data to control synthesizers.
+
+I built the first prototype in pure python and the data was sent via bluetooth. In 2020 I rewrote the Gyrophon to use OSC over Wi-Fi and used a csound-expression backend.
+
+I've experimented a lot with it during my improvisation classes at Akademie für Tonkunst Darmstadt. The main idea is to use touch x-y positions for velocity and timbre and use the accelerometer data for pitch. Thus you can play melodies by tilting the phone.
+
+<figure>
+  <img src="/assets/gyrophon.jpeg" alt="The Gyrophon app running on a Samsung phone, showing the touch grid">
+  <figcaption>The phone is the playing surface: a grid you slide across, tilting to change pitch.</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/gyrophon-mixer.png" alt="The Gyrophon desktop mixer with three voices and an effects rack">
+  <figcaption>The desktop synthesiser — three voices (cygnius, aquila, lyra) and a shared effects rack.</figcaption>
+</figure>
+
+Listen to an excerpt from my gyrophon sonata.
 
 <iframe class="work-trailer" src="https://www.youtube-nocookie.com/embed/aucf0iRILBs" title="Gyrophon — playing demo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The phone itself stays silent: it senses your movements and streams them to a
-computer, which turns them into sound in real time. Keeping the controller and
-the synthesiser apart makes the instrument cheap and endlessly hackable — any
-phone becomes the controller, and the sound can be reprogrammed freely on the
-desktop.
+The code is available on github. You need to install the gyrophon app and run the server on your desktop.
 
-Want to build or play one yourself? The
-[Android controller](https://github.com/fbous/gyrophon-android) and the
-[desktop synthesiser](https://github.com/fbous/gyrophon-desktop) are both open
-source, with full setup instructions on GitHub.
+- App: [https://github.com/fbous/gyrophon-android](https://github.com/fbous/gyrophon-android)
+- Server: [https://github.com/fbous/gyrophon-desktop](https://github.com/fbous/gyrophon-desktop)
