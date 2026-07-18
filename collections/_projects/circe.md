@@ -22,6 +22,11 @@ thesis. Originally built to realise the voice transformations for the
 used by composers such as [Omer Barash](/music/#gnz),
 [Sachie Kobayashi](/music/#day0) and [Aïda Shirazi](/music/#neentrecorps).
 
+CIRCE is also available as a real-time VST plugin, **Circe live**, bringing its
+pitch, tension and timbre-mix controls straight into a DAW.
+
+![The Circe live VST plugin](/assets/circe-live.png)
+
 CIRCE is available on the [IRCAM forum](https://forum.ircam.fr/projects/detail/circe/)
 to any registered user (registration is free). The research and software were
 developed as part of the ANR project
@@ -38,5 +43,3 @@ reshape it by redrawing the control-parameter curves in a web UI, on a computer
 or tablet.
 
 <iframe class="work-trailer" src="https://drive.google.com/file/d/1NSiNdg2WGWrEliYMVqV5-eXYh0lBIpyR/preview" title="ISMIR 2025 demo — neural voice editing tool" allow="autoplay" allowfullscreen></iframe>
-
-The same editing also ships as a VST plugin, bringing it directly into a DAW.
