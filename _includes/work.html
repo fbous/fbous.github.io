@@ -35,6 +35,7 @@
   {% if w.description %}<div class="work-lead">{{ w.description | markdownify }}</div>{% endif %}
   {{ work_meta }}
   {{ w.content | markdownify }}
+  {% if w.link %}<p><a href="{{ w.link }}">More information &#8599;</a></p>{% endif %}
   {% if w.source %}<p class="post-meta"><a href="{{ w.source }}">Video source</a></p>{% endif %}
   {% endif %}
 </div>
