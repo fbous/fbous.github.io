@@ -4,6 +4,7 @@ name: Gyrophon
 subtitle: "DIY electronic instrument"
 type: Electronic instrument
 category: creative-tech
+order: 2
 image: /assets/gyrophon-thumb.jpg
 short: >
   Electronic instrument which uses the smartphone's

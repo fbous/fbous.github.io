@@ -11,7 +11,16 @@ See also the [Music](/music/) pieces made with my voice-transformation tools and
 the [Films](/films/) I contributed to.
 
 <div class="media-list">
-{% assign projects = site.projects | where: "category", "creative-tech" %}
+  <div class="media-item">
+    <a class="media-thumb" href="https://www.studiocucurbits.com/"><img src="/assets/studio-cucurbits-thumb.png" alt="Studio Cucurbits"></a>
+    <div class="media-body">
+      <h3><a href="https://www.studiocucurbits.com/">Studio Cucurbits &#8599;</a></h3>
+      <p class="post-meta"><em>Creative-technology studio</em></p>
+      <p>Ongoing collaboration with the composer Sachie Kobayashi, designing
+      sonic structures and AI audio for multi-disciplinary projects.</p>
+    </div>
+  </div>
+{% assign projects = site.projects | where: "category", "creative-tech" | sort: "order" %}
 {% for p in projects %}
   <div class="media-item">
     {% if p.image %}<a class="media-thumb" href="{{ p.url }}"><img src="{{ p.image }}" alt="{{ p.name }}"></a>{% endif %}
@@ -22,13 +31,4 @@ the [Films](/films/) I contributed to.
     </div>
   </div>
 {% endfor %}
-  <div class="media-item">
-    <a class="media-thumb" href="https://www.studiocucurbits.com/"><img src="/assets/studio-cucurbits-thumb.png" alt="Studio Cucurbits"></a>
-    <div class="media-body">
-      <h3><a href="https://www.studiocucurbits.com/">Studio Cucurbits &#8599;</a></h3>
-      <p class="post-meta"><em>Creative-technology studio</em></p>
-      <p>Ongoing collaboration with the composer Sachie Kobayashi, designing
-      sonic structures and AI audio for multi-disciplinary projects.</p>
-    </div>
-  </div>
 </div>
