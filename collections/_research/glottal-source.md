@@ -1,7 +1,7 @@
 ---
 name: Glottal source estimation
 order: 8
-# TODO: add a thumbnail
+image: /assets/glottal-pulse.png
 short: >
   Detection and semi-supervised estimation of glottal closure instants and
   glottal pulse positions in neural analysis–synthesis of the voice.

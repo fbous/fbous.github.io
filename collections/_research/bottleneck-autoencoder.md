@@ -1,7 +1,7 @@
 ---
 name: Bottleneck auto-encoder
 order: 6
-image: /assets/thumb-pitch-spectrogram.png
+image: /assets/bottleneck.png
 short: >
   Neural auto-encoders with an information bottleneck that learn disentangled
   representations of the voice, enabling controllable transformation of pitch
