@@ -36,6 +36,9 @@
   display: flex;
   gap: 1em;
   align-items: flex-start;
+  border: 1px solid #e8e8e8;
+  border-radius: 8px;
+  padding: 1em;
 }
 
 .media-thumb {
@@ -153,12 +156,10 @@ figcaption {
 
 // Inline work blocks in the music / film feeds
 .work {
-  margin-bottom: 2.5em;
-}
-
-.work + .work {
-  border-top: 1px solid #e8e8e8;
-  padding-top: 1.5em;
+  margin-bottom: 1.5em;
+  border: 1px solid #e8e8e8;
+  border-radius: 8px;
+  padding: 1.25em;
 }
 
 .work-lead {
