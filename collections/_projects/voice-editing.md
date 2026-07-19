@@ -7,10 +7,10 @@ link: https://forum.ircam.fr/projects/detail/circe/
 image: /assets/cauldron.png
 short: >
   Software for editing and transforming the voice: the neural tools I develop at
-  Supertone, and CIRCE, the auto-encoder I built during my PhD at IRCAM.
+  Supertone and IRCAM.
 ---
 
-## At Supertone
+## Supertone's pitch drawing tool
 
 At [Supertone](https://supertone.ai) I build neural voice-editing tools on top
 of our NANSY voice backbone. Presented at
@@ -20,21 +20,23 @@ decomposes a voice into pitch, linguistic and speaker representations, and you
 reshape it by redrawing the control-parameter curves in a web UI, on a computer
 or tablet.
 
+The pitch drawing tool is available for business customers at Supertone
+and is used by audio engineers and movie directors.
+
 <iframe class="work-trailer" src="https://drive.google.com/file/d/1NSiNdg2WGWrEliYMVqV5-eXYh0lBIpyR/preview" title="ISMIR 2025 demo — neural voice editing tool" allow="autoplay" allowfullscreen></iframe>
 
-## CIRCE — IRCAM {#circe}
+## IRCAM's CIRCE {#circe}
 
 ![CIRCE screenshot](/assets/circe.png)
 
 CIRCE — the **IRC**am neural auto-en**C**oder for voi**CE** — transforms the
 pitch and intensity of a voice using the neural auto-encoder developed in my
 thesis. Originally built to realise the voice transformations for the
-[artistic residency of Judith Deschamps](/projects/deschamps), it has since been
-used by composers such as [Omer Barash](/music/#gnz),
+[artistic residency of Judith Deschamps](/projects/deschamps), I've refined the design in collaborations with composers such as [Omer Barash](/music/#gnz),
 [Sachie Kobayashi](/music/#day0) and [Aïda Shirazi](/music/#neentrecorps).
 
-CIRCE is also available as a real-time VST plugin, **Circe live**, bringing its
-pitch, tension and timbre-mix controls straight into a DAW.
+The original app was a GTK standalone. With the help of our software engineer 
+Pierre Guillot, we've ported the model into a VST plugin. The voice transformation runs in real time on modern computer hardware.
 
 ![The Circe live VST plugin](/assets/circe-live.png)
 
