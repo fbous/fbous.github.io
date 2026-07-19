@@ -12,11 +12,12 @@ experience:
     location: Korea
     date: "2024 - today"
     description: |
-      - Research related to Supertone's voice technology
-        - Improve quality and controllability on voice backbone model
-        - Analysis and transformation of room acoustics, pitch, subharmonics, breathiness and intensity
-        - Self-supervised- and representation learning related to TTS
-      - Application development: Develop and maintain voice editing tool using Supertone's voice technology
+      - Develop, train, and package Supertone's voice backbone NANSY
+        - Improve controllability through improved pitch encoder
+        - Optimize model architecture for better synthesis quality and faster inference
+      - Experiment with LLM-based TTS and neural audio codecs
+      - Develop and maintain voice editing tool built on Supertone's voice technology
+      - Publish and present research at international conferences
 
   - title: Post-doc, Doctoral researcher, Intern
     organization: IRCAM
@@ -24,10 +25,9 @@ experience:
     date: "2018 - 2024"
     description: |
       - Research on deep learning for voice
-        - 6 peer-reviewed publications including 5 as first author and 2 journal articles
         - Topics: Neural vocoding and representation, self-supervised learning, voice attribute transformation
-      - Technical support for film, music and art: Bespoke implementations of voice transformation
-      - Application development: Implement research results into voice editing and live transformation app
+      - Technical support for film, music, and art: bespoke voice transformation for artists
+      - Application development: research results into voice editing and live transformation apps
 
   - title: Intern
     organization: Siemens AG
@@ -73,18 +73,18 @@ education_extra:
     date: "2009 - 2010"
 
 skills:
+  - category: Research
+    items: "Experimental design and evaluation · scientific writing; presented at ICASSP, Interspeech, ISMIR"
   - category: Machine learning
-    items: "Self-supervised learning, generative AI, AI for speech and audio"
-  - category: Signal processing
-    items: "Audio signal processing, speech processing, singal processing for AI"
-  - category: Voice and language
-    items: "Phonetics, source-filter model, physical voice production, voice acoustics"
-  - category: Programming languages
-    items: "Python (torch, tensorflow), Haskell, Unix Shell (bash, zsh, fish)"
+    items: "Generative modeling · self-supervised learning · neural codecs and vocoders"
+  - category: Domain knowledge
+    items: "Signal processing · acoustics · voice science · music theory"
+  - category: Engineering
+    items: "Python (PyTorch, NumPy) · application development · model deployment"
   - category: Languages
-    items: "German (native), English (C2), French (B2), Polish (B1), Chinese (A2), Korean (basic)"
+    items: "German (native) · English (C2) · French (B2) · Polish (B1) · Chinese (A2) · Korean (basic)"
   - category: Music
-    items: "Singing, classical composition techniques, live coding (Tidal Cycles), Piano"
+    items: "Classically trained singer · composition · live coding (Tidal Cycles) · piano"
 
 collaborations:
   - artist: Emilien Dubuc
