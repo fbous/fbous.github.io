@@ -1,7 +1,7 @@
 ---
 name: Self-supervised room acoustics estimation & transformation
 order: 2
-image: /assets/thumb-room-acoustics.png
+image: /assets/rir-spectrograms.png
 short: >
   Self-supervised estimation of the room acoustics in a voice recording and
   transformation of that acoustic space — changing or removing the reverberation
