@@ -6,14 +6,22 @@ permalink: /research
 
 # Research
 
-I'm a researcher in sound and AI, working on voice technology. I'm currently at
+I'm a researcher in sound and AI, working on voice technology. I'm currently a Research Scientist at
 [Supertone](https://supertone.ai), where I maintain and develop our voice
-backbone, NANSY, used for text-to-speech and voice conversion. Previously I was
+backbone, NANSY, used for text-to-speech and voice transformation. Previously I was
 at [IRCAM](https://ircam.fr), where I completed my doctoral thesis on neural
 voice transformation. My work centres on controllable and interpretable
 generative models for voice, music and sound.
 
-## Research topics
+## Research interests
+
+- Controllable and interpretable generative models
+- Self-supervised representation learning
+- Neural audio/speech codecs
+- Music applications: MIR, singing voice synthesis, music generation models
+- Speech applications: TTS, VC, ASR
+
+## Previous research projects
 
 <div class="media-list">
 {% assign topics = site.research | sort: "order" %}

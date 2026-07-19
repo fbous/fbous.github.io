@@ -15,12 +15,11 @@ I'm looking for exciting new challenges at the intersection between machine lear
 ## Research Interests
 
 AI for voice, music, and sound: 
-- controllable and interpretable generative models
-- self-supervised representation learning and scene understanding
-- neural audio codecs
-- automatic speech recognition
-- multi-modal large language models
-- music information retrieval
+- Controllable and interpretable generative models
+- Self-supervised representation learning
+- Neural audio/speech codecs
+- Music applications: MIR, singing voice synthesis, music generation models
+- Speech applications: TTS, VC, ASR
 
 Open to new challenges related to artistic media.
 
@@ -55,14 +54,6 @@ Open to new challenges related to artistic media.
 
 {% for skill in site.data.cv.skills %}
 **{{ skill.category }}:** {{ skill.items }}
-{% endfor %}
-
----
-
-## Artistic Collaborations
-
-{% for collab in site.data.cv.collaborations %}
-{% include cv_compact_entry.html title=collab.artist subtitle=collab.work details=collab.type location=collab.location date=collab.date %}
 {% endfor %}
 
 ---

@@ -3,9 +3,8 @@ name: Self-supervised pitch & subharmonic detection
 order: 1
 image: /assets/thumb-viterbi.png
 short: >
-  Self-supervised estimation of pitch — robust to sub-harmonics — together with
-  detection of subharmonics and structural noise, an interactive tool for
-  editing these parameters, and an open evaluation dataset.
+  Self-supervised estimation of pitch with explicit modeling of subharmonics and structural noise (jitter and shimmer).
+  It allows editing of rough voice and is used in Supertone's pitch drawing tool.
 ---
-- Paper & interactive drawing tool: [ISMIR 2025 late-breaking demo](https://ismir2025program.ismir.net/lbd_439.html)
+- Abstract: [ISMIR 2025 late-breaking demo](https://ismir2025program.ismir.net/lbd_439.html)
 - Open dataset: [rough-voice-eval-set-vctk](https://github.com/supertone-inc/rough-voice-eval-set-vctk)
