@@ -29,7 +29,7 @@ or tablet.
 CIRCE — the **IRC**am neural auto-en**C**oder for voi**CE** — transforms the
 pitch and intensity of a voice using the neural auto-encoder developed in my
 thesis. Originally built to realise the voice transformations for the
-[artistic residency of Judith Deschamps](/projects/judith), it has since been
+[artistic residency of Judith Deschamps](/projects/deschamps), it has since been
 used by composers such as [Omer Barash](/music/#gnz),
 [Sachie Kobayashi](/music/#day0) and [Aïda Shirazi](/music/#neentrecorps).
 

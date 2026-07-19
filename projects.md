@@ -7,7 +7,7 @@ permalink: /projects/
 # Projects
 
 Longer creative-technology works where I built the technology behind the piece.
-See also the [Music](/music/) pieces made with my voice-transformation tools and
+See also the [Music](/music/) pieces I was involved in and
 the [Films](/films/) I contributed to.
 
 <div class="media-list">
@@ -16,7 +16,7 @@ the [Films](/films/) I contributed to.
     <div class="media-body">
       <h3><a href="https://www.studiocucurbits.com/">Studio Cucurbits &#8599;</a></h3>
       <p class="post-meta"><em>Creative-technology studio</em></p>
-      <p>Ongoing collaboration with the composer Sachie Kobayashi, designing
+      <p>Ongoing collaboration with the composer <a href="https://www.sachiekobayashi.com/">Sachie Kobayashi</a>, designing
       sonic structures and AI audio for multi-disciplinary projects.</p>
     </div>
   </div>

@@ -59,7 +59,7 @@ in the [git repository](https://github.com/fbous/voicelevel).
 
 ## Chapter 8 -- Applications
 
-### [Judith Deschamps: Farinelli voice](/projects/judith)
+### [Judith Deschamps: Farinelli voice](/projects/deschamps)
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/808318370?h=5d249afe97" width="730" height="410" frameborder="0"    allowfullscreen></iframe>
 

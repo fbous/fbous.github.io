@@ -2,6 +2,7 @@
 name: Glottal source estimation
 order: 8
 image: /assets/glottal-pulse.png
+link: https://doi.org/10.23919/Eusipco47968.2020.9287687
 short: >
   Semi-supervised estimation of glottal flow signals and of the closure instants in neural analysis–synthesis of the voice.
 ---

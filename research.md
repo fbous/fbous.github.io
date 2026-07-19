@@ -27,9 +27,9 @@ generative models for voice, music and sound.
 {% assign topics = site.research | sort: "order" %}
 {% for topic in topics %}
   <div class="media-item">
-    {% if topic.image %}<div class="media-thumb"><img src="{{ topic.image }}" alt="{{ topic.name }}"></div>{% endif %}
+    {% if topic.image %}{% if topic.link %}<a class="media-thumb" href="{{ topic.link }}"><img src="{{ topic.image }}" alt="{{ topic.name }}"></a>{% else %}<div class="media-thumb"><img src="{{ topic.image }}" alt="{{ topic.name }}"></div>{% endif %}{% endif %}
     <div class="media-body">
-      <h3>{{ topic.name }}</h3>
+      <h3>{% if topic.link %}<a href="{{ topic.link }}">{{ topic.name }}</a>{% else %}{{ topic.name }}{% endif %}</h3>
       {{ topic.short | markdownify }}
       {{ topic.content | markdownify }}
     </div>

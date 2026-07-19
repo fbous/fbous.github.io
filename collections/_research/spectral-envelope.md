@@ -2,6 +2,7 @@
 name: Auto-regressive spectral envelope prediction
 order: 9
 image: /assets/envelopes.png
+link: https://arxiv.org/abs/1903.01161
 short: >
   My first paper: deep-learning methods for the auto-regressive prediction of spectral envelopes in singing synthesis.
 ---

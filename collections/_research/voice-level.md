@@ -2,6 +2,7 @@
 name: Voice level estimation
 order: 5
 image: /assets/voice-level.png
+link: https://doi.org/10.1109/ICASSP49357.2023.10095740
 short: >
   Estimation and transformation of the perceived voice level — vocal effort,
   intensity and musical dynamics — in the singing voice.
