@@ -7,32 +7,41 @@ personal:
   gscholar: Isec9tEAAAAJ
 
 experience:
+  - title: Co-founder, Technical Lead
+    organization: Studio Cucurbits.
+    location: Korea
+    date: "September 2026 - present"
+    description: |
+      - Software engineering and QA for an AI-based pipeline that develops a suite of VST plugins
+      - Release pipeline for commercial audio effects (GitHub CI, signed builds); first product on sale since 2026
+      - AWS/Cloudflare infrastructure: CloudFront site, Lambda licensing, DNS, R2 delivery; Paddle shop
+      - Four-language phonetic relay prototype combining speech recognition, language-model interpretation, speech synthesis and OSC control for an interactive installation
+
   - title: Research Scientist
     organization: Supertone Inc.
     location: Korea
-    date: "2024 - today"
+    date: "August 2024 - August 2026"
     description: |
-      - Develop, train, and package Supertone's voice backbone NANSY
-        - Improve controllability through improved pitch encoder
-        - Optimize model architecture for better synthesis quality and faster inference
-      - Experiment with LLM-based TTS and neural audio codecs
-      - Develop and maintain voice editing tool built on Supertone's voice technology
-      - Publish and present research at international conferences
+      - Developed, trained, and packaged the voice backbone NANSY (~400M parameters; ~1B pipeline)
+        - Self-supervised pitch with subharmonics and jitter/shimmer; hybrid neural/Viterbi decoding
+        - Reduced the model from ~400M to ~150M parameters; distilled real-time variants
+      - LM-based TTS: variable-frame-rate speech tokenizer; Qwen3-1.5B fine-tuning on up to 16 H100s
+      - Voice-editing tool for B2B clients (pitch, subharmonics, noise); ISMIR 2025 late-breaking demo
 
-  - title: Post-doc, Doctoral researcher, Intern
+  - title: Post-doc, PhD candidate, Intern
     organization: IRCAM
     location: France
     date: "2018 - 2024"
     description: |
-      - Research on deep learning for voice
-        - Topics: Neural vocoding and representation, self-supervised learning, voice attribute transformation
-      - Technical support for film, music, and art: bespoke voice transformation for artists
-      - Application development: research results into voice editing and live transformation apps
+      - Deep learning for voice: neural vocoding, representation learning, voice attribute transformation
+      - Bespoke voice transformations for film, music, and art
+      - Turned research into voice-transformation software and a VST plugin (CIRCE)
+      - Postdoctoral research: September 2023 - March 2024; doctoral research: May 2019 - September 2023; internship: July 2018 - January 2019
 
-  - title: Intern
+  - title: R&D intern
     organization: Siemens AG
     location: Germany
-    date: "2015"
+    date: "June - September 2015"
 
   - title: Teaching assistant
     organization: TU Darmstadt, Signal Processing Group
@@ -58,7 +67,7 @@ education:
 
 education_extra:
   - title: Additional credits - Mathematics & Music
-    organization: TU Darmstadt
+    organization: TU Darmstadt, Akademie für Tonkunst
     location: Germany
     date: "2013 - 2018"
 
@@ -74,15 +83,15 @@ education_extra:
 
 skills:
   - category: Research
-    items: "Experimental design and evaluation · scientific writing; presented at ICASSP, Interspeech, ISMIR"
+    items: "Experiment design and evaluation · scientific writing · publications at ICASSP, Interspeech, ISMIR"
   - category: Machine learning
-    items: "Generative modeling · self-supervised learning · neural codecs and vocoders"
+    items: "Generative modeling · self-supervised learning · neural codecs and vocoders · distillation"
   - category: Domain knowledge
     items: "Signal processing · acoustics · voice science · music theory"
   - category: Engineering
-    items: "Python (PyTorch, NumPy) · application development · model deployment"
+    items: "Python (PyTorch, NumPy) · AI-assisted engineering and QA · CI/CD · AWS · model deployment"
   - category: Languages
-    items: "German (native) · English (C2) · French (B2) · Polish (B1) · Chinese (A2) · Korean (basic)"
+    items: "German (native) · English (C2) · French (B2) · Polish (B1) · Chinese (A2)"
   - category: Music
     items: "Classically trained singer · composition · live coding (Tidal Cycles) · piano"
 
@@ -134,7 +143,7 @@ scholarships:
     link: https://www.edite-de-paris.fr/
     date: "2019 - 2022"
   - name: Full study scholarship
-    organization: Studienstifung des deutschen Volkes (SdV)
+    organization: Studienstiftung des deutschen Volkes (SdV)
     link: https://www.studienstiftung.de/en/leitbild/
     date: "2015 - 2019"
   - name: Deutschlandstipendium
