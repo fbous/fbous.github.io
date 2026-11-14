@@ -6,15 +6,15 @@ order: 0
 link: https://forum.ircam.fr/projects/detail/circe/
 image: /assets/cauldron.png
 short: >
-  Software for editing and transforming the voice: the neural tools I develop at
+  Software for editing and transforming the voice: the neural tools I developed at
   Supertone and IRCAM.
 ---
 
 ## Supertone's pitch drawing tool
 
-At [Supertone](https://supertone.ai) I build neural voice-editing tools on top
-of our NANSY voice backbone. Presented at
-[ISMIR 2025](https://ismir2025program.ismir.net/lbd_439.html), the latest tool
+At [Supertone](https://supertone.ai), I built neural voice-editing tools on top
+of the NANSY voice backbone. Presented at
+[ISMIR 2025](https://ismir2025program.ismir.net/lbd_439.html), the pitch drawing tool
 edits pitch, subharmonics and structural noise (jitter and shimmer): it
 decomposes a voice into pitch, linguistic and speaker representations, and you
 reshape it by redrawing the control-parameter curves in a web UI, on a computer

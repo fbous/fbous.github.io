@@ -8,7 +8,7 @@ permalink: /cv
 
 **[📄 One-page résumé as PDF](/assets/cv.pdf)**
 
-I'm looking for exciting new challenges at the intersection between machine learning, voice technology and art, between scientific theory and applications in creative domains.
+I'm a researcher in voice and audio AI and co-founder and technical lead at [Studio Cucurbits.](https://www.studiocucurbits.com/) I work across machine learning, signal processing and audio software, turning research into tools for speech, music and artistic production.
 
 ---
 
