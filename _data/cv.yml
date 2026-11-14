@@ -25,7 +25,7 @@ experience:
       - Developed, trained, and packaged the voice backbone NANSY (~400M parameters; ~1B pipeline)
         - Self-supervised pitch with subharmonics and jitter/shimmer; hybrid neural/Viterbi decoding
         - Reduced the model from ~400M to ~150M parameters; distilled real-time variants
-      - LM-based TTS: variable-frame-rate speech tokenizer; Qwen3-1.5B fine-tuning on up to 16 H100s
+      - LM-based TTS: variable-frame-rate tokenizer; Qwen3-1.5B fine-tuning; training on up to 16 H100s
       - Voice-editing tool for B2B clients (pitch, subharmonics, noise); ISMIR 2025 late-breaking demo
 
   - title: Post-doc, PhD candidate, Intern
